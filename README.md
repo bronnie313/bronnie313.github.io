@@ -90,6 +90,9 @@ A project was built Using
 - **Software Engineer Profile**
 - **The Logo and the Menu**
 - **The Connection Section(twitter, github linkedIn and more options to connect)**
+- **The works section**
+- **The About Myself section**
+- **The Contact me section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +100,7 @@ A project was built Using
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See WEB here](https://github.com/bronnie313/Portfolio.git)
+- [See WEB here](https://bronnie313.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
