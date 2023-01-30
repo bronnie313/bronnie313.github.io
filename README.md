@@ -147,7 +147,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:https://github.com/bronnie313/Portfolio.git
+To run the project, execute the following command:https://bronnie313.github.io/
 
 <!--
 Example command:
@@ -159,7 +159,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:https://github.com/bronnie313/Portfolio.git
+To run tests, run the following command:https://bronnie313.github.io/
 
 <!--
 Example command:
@@ -171,7 +171,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:https://github.com/bronnie313/Portfolio.git
+You can deploy this project using:https://bronnie313.github.io/
 
 <!--
 Example:
