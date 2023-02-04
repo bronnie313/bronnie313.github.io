@@ -183,6 +183,8 @@ Example:
 
 ```
  -->
+ ### Outline Presentation
+ You can watch the Portfolio outline Presentation here using:https://www.loom.com/share/243b45eaa64d4311a2f89ca9daf1adae
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
